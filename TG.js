@@ -416,3 +416,9 @@ console.log(condiments);
 utensils.pop();
 
 utensils = ['Spork'];
+
+let vacationSpots = ['Africa', 'Egypt', 'Japan'];
+
+console.log(vacationSpots[0]);
+console.log(vacationSpots[1]);
+console.log(vacationSpots[2]);
