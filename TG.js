@@ -57,3 +57,6 @@ const price = 12;
 console.log(12);
 
 entree = 'Tacos';
+
+let changeMe = false;
+console.log(false);
