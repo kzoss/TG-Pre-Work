@@ -82,3 +82,8 @@ assay += 1;
 
 let favoriteAnimal = 'dog';
 console.log('Max' + favoriteAnimal + '.');
+
+let myName = 'Karenna';
+
+let myCity = 'Denever';
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`)
