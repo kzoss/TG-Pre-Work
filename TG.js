@@ -359,3 +359,7 @@ const starCount = () => {
 
 starCount();
 console.log(i);
+
+let newYearsResolutions = ['Workout everyday', 'Eat healthier', 'get married'];
+
+console.log(newYearsResolutions);
