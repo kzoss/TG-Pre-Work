@@ -79,3 +79,6 @@ particle *= 6.02;
 
 // Increment assay by 1
 assay += 1;
+
+let favoriteAnimal = 'dog';
+console.log('Max' + favoriteAnimal + '.');
