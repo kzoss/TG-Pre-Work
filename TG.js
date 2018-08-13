@@ -379,3 +379,7 @@ console.log(listItem);
 
 console.log(newYearsResolutions['Learn a new language']);
 console.log(newYearsResolutions[3]);
+
+let newYearsResolutions = ['Run a marathon', 'Learn a new language', 'Read 52 books'];
+
+console.log(newYearsResolutions.length);
