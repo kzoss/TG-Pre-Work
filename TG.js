@@ -60,3 +60,9 @@ entree = 'Tacos';
 
 let changeMe = false;
 console.log(false);
+
+let notDefined;
+console.log(undefined);
+
+let valueless;
+console.log(valueless);
