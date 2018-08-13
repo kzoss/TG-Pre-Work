@@ -383,3 +383,12 @@ console.log(newYearsResolutions[3]);
 let newYearsResolutions = ['Run a marathon', 'Learn a new language', 'Read 52 books'];
 
 console.log(newYearsResolutions.length);
+
+let newYearsResolutions = ['Run a marathon', 'Learn a new language', 'Read 52 books'];
+
+newYearsResolutions.push('Get a developer job', 'Learn more developer languages');
+
+console.log(newYearsResolutions);
+
+newYearsResolutions.pop();
+console.log(newYearsResolutions);
