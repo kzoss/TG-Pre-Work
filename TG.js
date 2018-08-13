@@ -100,3 +100,10 @@ if (knowsJavaScript && userName) {
 } else {
   console.log('Great! Get ready to learn something new!');
 }
+
+let isSoccerFan = false;
+if (isSoccerFan === false) {
+  console.log('No goal!');
+} else {
+  console.log('Goal!');
+}
