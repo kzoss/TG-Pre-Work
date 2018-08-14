@@ -538,3 +538,11 @@ let person = {
 
 console.log(person.name);
 console.log(person.age);
+
+let person = {
+  name: 'Karenna',
+  age: 30
+};
+
+console.log(person['name']);
+console.log(person['age']);
